@@ -1,0 +1,1 @@
+# Youtube-Auto-Pause-Extension
